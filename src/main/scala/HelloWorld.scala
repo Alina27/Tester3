@@ -5,5 +5,6 @@ object HelloWorld {
 	println("Hello, from Anabel !")
     println("Hello, out of HelloWorld.scala !")
     println("Please, count: " + (1 + 1))
+    println("Please, count: " + (2 + 3))
   }
 }
